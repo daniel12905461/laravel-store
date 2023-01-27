@@ -1,0 +1,1 @@
+<p class="text-base mb-2">{{$slot}}</p>
